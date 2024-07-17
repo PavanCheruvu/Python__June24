@@ -1,0 +1,6 @@
+print(10)
+print(10.35)
+print('Data-1')
+print('Data-2')
+print('Data-3')
+print('Linux',3.56,'Default shell is bash')
